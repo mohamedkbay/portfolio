@@ -26,8 +26,6 @@ My work connects software, infrastructure and day-to-day technical support. I de
 
 | Organization / area | Work |
 | --- | --- |
-| **Oil Libya** | Infrastructure and network support, server environments, connectivity and system reliability. |
-| **Tetco** | Freelance development, custom web and software work, and technical consulting. |
 | **Sahab Libya** | IT support, network connectivity, hardware and end-user troubleshooting. |
 | **Healthcare systems** | Application support, day-to-day technical assistance and helping staff use their systems. |
 
