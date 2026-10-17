@@ -76,7 +76,7 @@ UpDent uses published promotional images. Glory and Nabda use local development 
 
 ## Beyond the featured projects
 
-**[Business systems on my secondary account →](https://github.com/mohamedbay/mohamedbay#selected-project-notes)** — Khirazz POS, SouqFlow POS and IDC Clinic Manager. Product overviews only; the application repositories remain private.
+**[Freelance & company collaboration account →](https://github.com/mohamedbay/mohamedbay#selected-project-notes)** — a separate workspace for company work, with notes on Khirazz POS, SouqFlow POS and IDC Clinic Manager. Product overviews only; the application repositories remain private.
 
 **[Full project catalog →](PROJECTS.md)** — ERP, café operations, vehicle inspection, healthcare tools, e-commerce, websites and other applications.
 
