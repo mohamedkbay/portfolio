@@ -1,10 +1,26 @@
 # فوترة · Fawtara
 
-**A mobile-first workspace for organizing invoice images.**
+**Invoice capture today; a Flutter financial companion in design.**
 
 [Public source](https://github.com/mohamedkbay/fawtara-public) · [Back to selected work](../README.md)
 
-## Interface previews
+## Mobile direction · design preview
+
+<p align="center"><img src="../assets/fawtara/logo.png" width="72" alt="Proposed Fawtara receipt logo" /></p>
+
+**كل فاتورة، خطوة أوضح.**
+
+![Fawtara mobile concept walkthrough](../assets/fawtara/walkthrough.gif)
+
+[Watch the 43-second walkthrough](../assets/fawtara/walkthrough.mp4) · [Open the full mobile screen](../assets/fawtara/mobile-concept.png)
+
+This is a design and motion proposal with illustrative records, not footage of a completed Flutter application or a live Qwen response.
+
+التصور الجديد لفوترة: تطبيق Flutter، قاعدة بيانات محلية داخل الهاتف، مبالغ وتصنيفات ومواعيد استحقاق، وتنبيهات للمصروفات والفواتير، مع تحليل اختياري عبر Qwen بمفتاح كل مستخدم.
+
+The proposed workflow is capture → enter details → save locally → review spending and due dates → receive local alerts → optionally review and send a summary to Qwen. Financial checks are based on the records the user enters. The existing public browser edition remains available below.
+
+## Existing browser edition · actual interface captures
 
 <p align="center">
 <img src="../assets/fawtara/phone-home.jpg" height="480" alt="Fawtara empty invoice archive in the phone layout" />

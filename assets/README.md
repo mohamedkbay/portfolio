@@ -9,6 +9,6 @@ These images support the public portfolio. Private application source code and o
 | `fakkerni/` | Existing native iOS Simulator captures from the [public Fakkerni documentation](https://github.com/mohamedkbay/fakkerni). The editor is empty. |
 | `masajiduna/` | Existing app development previews. The mosque map shows a manually selected preview location. |
 | `nabda/` | Browser capture of the local product website, taken on 17 October 2026. The message route is a built-in simulation, including a masked example phone number. |
-| `fawtara/` | Phone-layout captures of the public browser-only edition running locally, taken on 17 October 2026. The invoice archive and form are empty. |
+| `fawtara/` | `phone-*.jpg`: actual phone-layout captures of the public browser-only edition running locally, taken on 17 October 2026, with an empty archive and form. `mobile-concept.png`, `walkthrough.gif` and `walkthrough.mp4`: original UI and motion proposals for the planned mobile edition, with illustrative amounts and invoices. These are not recordings of an implemented Flutter build. `logo.*`: original proposed Fawtara receipt mark. The concept uses IBM Plex Sans Arabic under SIL OFL 1.1; see `fawtara/FONT-LICENSE.txt`. |
 
 Images show their respective captured or published versions. A preview does not imply that every backend integration is configured in a hosted deployment. Rights in product branding and third-party material remain with their respective owners.

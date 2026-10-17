@@ -24,6 +24,7 @@ Web and mobile products, business systems, websites and interface prototypes fro
 | Project | Scope |
 | --- | --- |
 | **Hospital CRM & communications** | Arabic hospital workflows, conversations, departmental routing, bookings, follow-ups and communications integration. Built on existing open-source foundations with custom development. |
+| **IDC Clinic Manager** | Clinic records, appointments, team workflows and reporting interfaces. [Product overview](https://github.com/mohamedbay/mohamedbay/blob/main/projects/idc-clinic-manager.md); source and patient data remain private. |
 | **Car Pulse** | Vehicle inspection workflows, structured checks, damage documentation and customer-facing inspection reports. |
 | **Wisam clinic website** | A clinic website and service presentation interfaces. |
 
@@ -32,6 +33,8 @@ Web and mobile products, business systems, websites and interface prototypes fro
 | Project | Scope |
 | --- | --- |
 | **Salem accounting application** | Invoice records, contractor and supplier accounts, payment tracking, cash movements and PDF statements for a building-materials business. |
+| **Khirazz POS · الخراز** | Web and Windows point of sale with local records and optional synchronization. [Product overview](https://github.com/mohamedbay/mohamedbay/blob/main/projects/khirazz.md); private source. |
+| **SouqFlow POS** | Windows-focused sales, stock, customer and reporting workflows. [Product overview](https://github.com/mohamedbay/mohamedbay/blob/main/projects/souqflow.md); private source. |
 | **AL-HADAF ERP** | A business management system for building materials and construction services. |
 | **ALAZOZI ERP** | A tailored ERP application for a building-materials business. |
 | **Selal ERP** | Point-of-sale, inventory, suppliers and reporting interfaces. |
