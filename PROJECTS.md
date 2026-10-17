@@ -15,7 +15,7 @@ Web and mobile products, business systems, websites and interface prototypes fro
 | **Fakkerni · فكّرني** | Arabic voice reminders, review before saving and local alerts on Android and iOS. | [Source & downloads](https://github.com/mohamedkbay/fakkerni) |
 | **Masajiduna · مساجدنا** | Flutter prayer companion, mosque discovery, adhkar and Quran radio, with a companion website. | [Overview](projects/masajiduna.md) · [Website](https://masajiduna.ly) |
 | **Nabda · نبضة** | Android messaging agent, Windows controller and self-hosted messaging API. | [Overview](projects/nabda.md) |
-| **Fawtara · فوترة** | Mobile-first invoice image capture, organization and retrieval. | [Overview](projects/fawtara.md) |
+| **Fawtara · فوترة** | Mobile-first invoice image capture, organization and retrieval. A browser-only edition is available publicly. | [Overview](projects/fawtara.md) · [Public source](https://github.com/mohamedkbay/fawtara-public) |
 | **Live Transcribe · التفريغ اللحظي** | A writer screen and a live audience screen, synchronized through WebSockets, with local text and HTML export. | Private source |
 | **Fermo mobile application** | Flutter application interfaces for customer, driver and supplier roles. | Private development project |
 

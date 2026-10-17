@@ -48,6 +48,7 @@ I’m a network engineer and developer based in Libya. I work on development, sy
 <a href="projects/fawtara.md"><img src="assets/fawtara/phone-home.jpg" height="250" alt="Fawtara invoice archive on a phone-sized screen" /> <img src="assets/fawtara/phone-add-invoice.jpg" height="250" alt="Fawtara invoice capture form on a phone-sized screen" /></a>
 <p>Capture an invoice image and organize its details.</p>
 <a href="projects/fawtara.md">Explore Fawtara →</a>
+<br /><a href="https://github.com/mohamedkbay/fawtara-public">Public source →</a>
 </td>
 </tr>
 </table>
@@ -63,7 +64,7 @@ UpDent uses published promotional images. Glory, Nabda and Fawtara use local dev
 | **فكّرني · Fakkerni** | Capture an Arabic voice reminder, review it and schedule an alert. | Java · SwiftUI | [Preview](projects/fakkerni.md) · [Source & downloads](https://github.com/mohamedkbay/fakkerni) |
 | **مساجدنا · Masajiduna** | Prayer times, nearby mosques, daily adhkar and Quran radio. | Flutter · Dart · React | [Overview](projects/masajiduna.md) · [Website](https://masajiduna.ly) |
 | **نبضة · Nabda** | Connect an Android phone to a messaging controller and API. | TypeScript · Java · PostgreSQL · Redis | [Overview](projects/nabda.md) |
-| **فوترة · Fawtara** | Capture, organize and find invoice images from a phone. | React · TypeScript · MUI | [Overview](projects/fawtara.md) |
+| **فوترة · Fawtara** | Capture, organize and find invoice images from a phone. | React · TypeScript · MUI | [Overview](projects/fawtara.md) · [Public source](https://github.com/mohamedkbay/fawtara-public) |
 
 ## A closer look
 

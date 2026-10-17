@@ -2,7 +2,7 @@
 
 **A mobile-first workspace for organizing invoice images.**
 
-[Back to selected work](../README.md)
+[Public source](https://github.com/mohamedkbay/fawtara-public) · [Back to selected work](../README.md)
 
 ## Interface previews
 
@@ -34,4 +34,4 @@ React · TypeScript · Material UI · Zustand · Vite
 
 ## Availability
 
-The hosted application uses an access-code screen. This overview does not provide access to private invoices or accounts. Source code remains private.
+The [public browser-only edition](https://github.com/mohamedkbay/fawtara-public) is available as source code. It stores invoice images and details in the current browser's local storage, with no database or remote storage integration to configure. See its README for running and building the application.
