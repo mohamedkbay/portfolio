@@ -6,16 +6,14 @@
 
 ## Interface previews
 
-![Fawtara invoice capture form](../assets/fawtara/add-invoice.jpg)
+<p align="center">
+<img src="../assets/fawtara/phone-home.jpg" height="480" alt="Fawtara empty invoice archive in the phone layout" />
+<img src="../assets/fawtara/phone-add-invoice.jpg" height="480" alt="Fawtara invoice form in the phone layout" />
+</p>
 
-<details>
-<summary>View the empty invoice archive</summary>
+**Mobile invoice archive · Add an invoice**
 
-![Fawtara empty invoice archive](../assets/fawtara/home.jpg)
-
-</details>
-
-Captured from a local preview with an empty archive and blank invoice fields. No customer invoices or account records are shown.
+Captured from the actual local web interface using a phone-sized viewport, with an empty archive and blank invoice fields. No customer invoices or account records are shown.
 
 ## The idea
 

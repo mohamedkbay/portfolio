@@ -45,7 +45,7 @@ I’m a network engineer and developer based in Libya. I work on development, sy
 <a href="projects/nabda.md">Explore Nabda →</a>
 </td>
 <td align="center" valign="top">
-<a href="projects/fawtara.md"><img src="assets/fawtara/add-invoice.jpg" width="440" alt="Fawtara empty invoice capture form in a local preview" /></a>
+<a href="projects/fawtara.md"><img src="assets/fawtara/phone-home.jpg" height="250" alt="Fawtara invoice archive on a phone-sized screen" /> <img src="assets/fawtara/phone-add-invoice.jpg" height="250" alt="Fawtara invoice capture form on a phone-sized screen" /></a>
 <p>Capture an invoice image and organize its details.</p>
 <a href="projects/fawtara.md">Explore Fawtara →</a>
 </td>
