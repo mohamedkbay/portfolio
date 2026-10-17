@@ -4,6 +4,12 @@
 
 [Back to selected work](../README.md)
 
+## Product preview
+
+![Nabda product site and simulated message delivery flow](../assets/nabda/home.jpg)
+
+Captured from the local product website. The visible message flow is the site's built-in simulation with a masked example phone number.
+
 ## The idea
 
 Give a business a way to queue expected service messages through its own connected Android phone, with a local controller or a self-hosted API.

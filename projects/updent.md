@@ -4,6 +4,18 @@
 
 [Website](https://updent.ly) · [App Store](https://apps.apple.com/ly/app/updent/id6754293517?l=ar) · [Google Play](https://play.google.com/store/apps/details?id=com.bensuliman.updent&hl=en) · [Back to selected work](../README.md)
 
+## App previews
+
+<p align="center">
+<img src="../assets/updent/dashboard.jpg" height="360" alt="UpDent published clinic dashboard promotional screenshot" />
+<img src="../assets/updent/follow-ups.jpg" height="360" alt="UpDent published follow-up management promotional screenshot" />
+<img src="../assets/updent/onboarding.png" height="360" alt="UpDent onboarding screen describing file organization" />
+</p>
+
+**Dashboard · Follow-up management · Onboarding**
+
+The first two images are published App Store promotional screenshots. The onboarding screen comes from the public UpDent website. [Image sources](../assets/README.md).
+
 ## The idea
 
 Help dentists and their teams organize patient records, document treatment and follow cases from one mobile workflow.

@@ -4,6 +4,15 @@
 
 [Visit the website](https://masajiduna.ly) · [Back to selected work](../README.md)
 
+## App previews
+
+<p align="center">
+<img src="../assets/masajiduna/home.png" height="420" alt="Masajiduna prayer times development preview" />
+<img src="../assets/masajiduna/mosques.png" height="420" alt="Masajiduna mosque discovery with a manually chosen map location" />
+</p>
+
+Existing development captures of prayer times and mosque discovery. The map uses a manually selected preview location. [Image sources](../assets/README.md).
+
 ## The idea
 
 Bring prayer times, mosque discovery, daily adhkar and Quran radio into one clear Arabic experience.

@@ -4,6 +4,22 @@
 
 [Back to selected work](../README.md)
 
+## Platform previews
+
+### Arabic landing page
+
+![GloryTech Academy Arabic landing page](../assets/glory/home.jpg)
+
+<table>
+<tr><th width="50%">Course overview</th><th width="50%">Student dashboard · Demo</th></tr>
+<tr>
+<td valign="top"><a href="../assets/glory/course.jpg"><img src="../assets/glory/course.jpg" width="440" alt="Glory networking course overview and curriculum" /></a></td>
+<td valign="top"><a href="../assets/glory/dashboard.jpg"><img src="../assets/glory/dashboard.jpg" width="440" alt="Glory dashboard showing a synthetic demo student" /></a></td>
+</tr>
+</table>
+
+Captured from the actual local development preview. The dashboard uses the built-in demo student; no real learner records are shown. Click an image to view it larger.
+
 ## The idea
 
 Give a training academy a clear online home for course discovery and a structured learning experience for students.
