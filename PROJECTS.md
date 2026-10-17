@@ -45,11 +45,8 @@ Web and mobile products, business systems, websites and interface prototypes fro
 | Project | Scope |
 | --- | --- |
 | **Etaar storefront & administration** | E-commerce storefronts and companion administration interfaces for products, brands, orders and sales views. |
-| **Wisam Mobile** | Electronics storefront interfaces with product categories, product details and promotional sections. |
-| **Tea at 9** | A responsive café website with menu discovery, product imagery and location information. |
 | **Alrouia / Rouia Production & Marketing** | A website presenting media production and marketing services. |
 | **TechShield / درع التقنية** | A technology company website presenting software, networks and infrastructure services. |
-| **PassGuard** | A document recovery workflow interface prototype. |
 
 ## Ventures and professional home
 
