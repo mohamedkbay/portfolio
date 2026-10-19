@@ -14,9 +14,9 @@ I’m a network engineer and developer based in Libya. I work on development, sy
 <tr><th colspan="2">Featured · REPLY · Open source</th></tr>
 <tr>
 <td colspan="2" align="center" valign="top">
-<a href="projects/reply.md"><img src="assets/reply/inventory-dark.jpg" width="680" alt="Reply Arabic inventory with fictional demonstration products" /></a>
-<p>Arabic-first product inventory and code-based replies. A locally verified pilot.</p>
-<a href="https://github.com/mohamedkbay/REPLY">Code & documentation →</a> · <a href="projects/reply.md">Project overview →</a>
+<a href="https://github.com/mohamedkbay/REPLY/blob/main/docs/media/Reply-Showcase.mp4"><img src="assets/reply/motion-preview.gif" width="680" alt="Reply local-demo theme wave and layered menu animation" /></a>
+<p>Arabic-first product inventory and code-based replies. Actual local-demo motion with synthetic inventory.</p>
+<a href="https://github.com/mohamedkbay/REPLY/blob/main/docs/media/Reply-Showcase.mp4">Watch the 32-second film →</a> · <a href="https://github.com/mohamedkbay/REPLY">Code & documentation →</a> · <a href="projects/reply.md">Project overview →</a>
 </td>
 </tr>
 <tr><th width="50%">UpDent · Mobile app</th><th width="50%">Glory Platform · Training academy</th></tr>

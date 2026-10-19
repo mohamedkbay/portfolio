@@ -15,6 +15,14 @@ REPLY يساعد التاجر ينظّم المنتجات والأسعار وا�
 
 Incoming photos prompt code guidance; the current implementation does not identify products visually or call a language model.
 
+## Reply in motion
+
+[![Reply theme wave and layered menu from the actual local demo](../assets/reply/motion-preview.gif)](https://github.com/mohamedkbay/REPLY/blob/main/docs/media/Reply-Showcase.mp4)
+
+**[Watch the full 32-second film](https://github.com/mohamedkbay/REPLY/blob/main/docs/media/Reply-Showcase.mp4)** — theme waves, layered navigation, Arabic/English switching, a product-photo reply and the responsive phone layout. The film is 1080p/30 fps; the 12-second GIF previews the theme and menu. Both use synthetic inventory and contain no live message delivery. The film is intentionally silent.
+
+شاهد الواجهة أثناء الاستخدام: تبديل الثيم واللغة، القائمة، معاينة ردّ المنتج وصورته، وعرض الهاتف. التسجيل من نسخة محلية ببيانات تجريبية.
+
 ## Interface previews
 
 ![Reply inventory with explicitly labelled fictional demonstration products](../assets/reply/inventory-dark.jpg)
@@ -49,6 +57,8 @@ TypeScript · Node.js · SQLite · server-rendered HTML/CSS and browser JavaScri
 **Status: open-source, locally verified pilot.** This is a product overview, not an announcement of a publicly launched service.
 
 On 19 October 2026, a fresh local review of the uploaded snapshot passed **158 automated tests**, TypeScript checking, the Worker dry-run bundle, the Node bundle and the workerd/D1 runtime checks. Provider traffic in these tests is mocked; passing them does not establish live platform permissions or message delivery.
+
+The latest reviewed upload, `8003132` (19 October 2026), adds the film, GIF and production notes without changing application runtime code. Media dimensions/durations, source checksums and renderer syntax were checked; the application checks above apply to the unchanged runtime.
 
 Live enrollment still requires configured email delivery, approved platform access, public HTTPS callbacks and operational validation. The Node pilot does not yet schedule the separate daily Instagram-token renewal path. Online checkout and customer-facing paid activation are not implemented. TikTok support is public text comments on selected owned videos, not general inbox automation.
 
