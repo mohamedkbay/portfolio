@@ -47,6 +47,7 @@ Web and mobile products, business systems, websites and interface prototypes fro
 
 | Project | Scope |
 | --- | --- |
+| **REPLY** | Arabic-first merchant inventory, product-code replies and a locally verified customer-service pilot. [Overview & previews](projects/reply.md); private application source. |
 | **Etaar storefront & administration** | E-commerce storefronts and companion administration interfaces for products, brands, orders and sales views. |
 | **Alrouia / Rouia Production & Marketing** | A website presenting media production and marketing services. |
 | **TechShield / درع التقنية** | A technology company website presenting software, networks and infrastructure services. |

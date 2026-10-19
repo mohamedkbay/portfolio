@@ -51,14 +51,23 @@ I’m a network engineer and developer based in Libya. I work on development, sy
 <br /><a href="https://github.com/mohamedkbay/fawtara-public">Public source →</a>
 </td>
 </tr>
+<tr><th colspan="2">REPLY · Merchant inventory & product replies</th></tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<a href="projects/reply.md"><img src="assets/reply/inventory-dark.jpg" width="680" alt="Reply Arabic inventory with fictional demonstration products" /></a>
+<p>Arabic-first product inventory and code-based replies. A locally verified pilot.</p>
+<a href="projects/reply.md">Explore REPLY →</a>
+</td>
+</tr>
 </table>
 
-UpDent uses published promotional images. Glory and Nabda use local development previews; the student account is a demo. Fawtara's animation is a proposed mobile design with illustrative records; its project page also contains actual captures of the existing browser edition. [Image sources](assets/README.md).
+UpDent uses published promotional images. Glory and Nabda use local development previews; the student account is a demo. Fawtara's animation is a proposed mobile design with illustrative records; its project page also contains actual captures of the existing browser edition. Reply uses existing development captures with labelled fictional inventory and empty sign-in forms. [Image sources](assets/README.md).
 
 ## Projects
 
 | Project | Purpose | Technology | Explore |
 | --- | --- | --- | --- |
+| **REPLY** | Arabic-first merchant inventory, product-code answers and configurable business replies; locally verified pilot. | TypeScript · Node.js · SQLite · Workers/D1 prototype | [Overview & previews](projects/reply.md) |
 | **UpDent** | An Android and iOS mobile app for dental clinic workflows, with companion web tools. | Mobile app · web interfaces | [Overview](projects/updent.md) · [Website](https://updent.ly) |
 | **Glory Platform · GloryTech Academy** | An Arabic learning platform for networking and IT training. | React · TypeScript · course and student interfaces | [Overview](projects/glory-platform.md) |
 | **فكّرني · Fakkerni** | Capture an Arabic voice reminder, review it and schedule an alert. | Java · SwiftUI | [Preview](projects/fakkerni.md) · [Source & downloads](https://github.com/mohamedkbay/fakkerni) |
@@ -68,6 +77,7 @@ UpDent uses published promotional images. Glory and Nabda use local development 
 
 ## A closer look
 
+- **[REPLY](projects/reply.md):** merchant inventory, bilingual workflows and product replies built on saved catalog data.
 - **[UpDent](projects/updent.md):** a dental mobile app and supporting web workflows.
 - **[Glory Platform](projects/glory-platform.md):** course discovery, a student dashboard and an Arabic learning experience.
 - **[Masajiduna](projects/masajiduna.md):** location-aware discovery and a daily Arabic mobile experience.
