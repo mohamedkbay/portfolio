@@ -2,7 +2,7 @@
 
 **An Arabic-first workspace that turns a product code into a clear answer.**
 
-[Back to selected work](../README.md)
+[Public source & documentation →](https://github.com/mohamedkbay/REPLY) · [Back to selected work](../README.md)
 
 REPLY يساعد التاجر ينظّم المنتجات والأسعار والتوفر، ويردّ على استفسارات الزبائن انطلاقاً من كود المنتج وبيانات المخزون. الواجهة عربية وإنجليزية، والردود الحالية مبنية على قواعد وبيانات محفوظة، من غير توليد أسعار بالذكاء الاصطناعي.
 
@@ -38,7 +38,7 @@ Reply extends an existing open-source automation foundation with a merchant-focu
 - Email-code authentication, isolated customer workspaces and limited-trial controls in the Node pilot.
 - Automated tests for matching, authentication, workspace isolation, callback verification, duplicate handling and image/text fallback.
 
-The underlying foundation is [Paul Millerd’s manychat-lite-cloudflare](https://github.com/paulmil11/manychat-lite-cloudflare), credited in the private project's license and attribution records. This overview describes the custom extension work; it does not claim sole authorship of that foundation.
+The underlying foundation is [Paul Millerd’s manychat-lite-cloudflare](https://github.com/paulmil11/manychat-lite-cloudflare), credited in the [MIT license](https://github.com/mohamedkbay/REPLY/blob/main/LICENSE) and [attribution records](https://github.com/mohamedkbay/REPLY/blob/main/NOTICE.md). This overview describes the custom extension work; it does not claim sole authorship of that foundation.
 
 ## Technology
 
@@ -46,7 +46,7 @@ TypeScript · Node.js · SQLite · server-rendered HTML/CSS and browser JavaScri
 
 ## Status and verification
 
-**Status: locally verified pilot, with source code kept private.** This is a product overview, not an announcement of a publicly launched service.
+**Status: open-source, locally verified pilot.** This is a product overview, not an announcement of a publicly launched service.
 
 On 19 October 2026, a fresh local review of the uploaded snapshot passed **158 automated tests**, TypeScript checking, the Worker dry-run bundle, the Node bundle and the workerd/D1 runtime checks. Provider traffic in these tests is mocked; passing them does not establish live platform permissions or message delivery.
 
@@ -54,4 +54,4 @@ Live enrollment still requires configured email delivery, approved platform acce
 
 ## Availability
 
-Application source, credentials, deployment configuration and operational data remain private. This page contains a description and selected development screenshots only. See [image sources and attribution](../assets/README.md).
+The application source and setup guides are now [public on GitHub](https://github.com/mohamedkbay/REPLY) under the MIT license. This overview presents the product and selected development screenshots; real credentials and operational customer data are not part of the showcase. See [image sources and attribution](../assets/README.md).
