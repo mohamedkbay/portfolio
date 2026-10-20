@@ -49,7 +49,8 @@ Web and mobile products, business systems, websites and interface prototypes fro
 | --- | --- |
 | **REPLY** | Arabic-first merchant inventory, product-code replies and a locally verified customer-service pilot. [Overview & previews](projects/reply.md) · [Public source & docs](https://github.com/mohamedkbay/REPLY), MIT. |
 | **Etaar storefront & administration** | E-commerce storefronts and companion administration interfaces for products, brands, orders and sales views. |
-| **Alrouia / Rouia Production & Marketing** | A website presenting media production and marketing services. |
+| **الرؤية الفنية · ROUIA company website** | Arabic production portfolio, services and video archive. Developed through Etaar. [Overview & screens](projects/alrouia.md) · [Website](https://alrouia.ly/); private source. |
+| **منصة رؤية · ROUIA Platform** | Podcasts, shorts, persistent audio listening and private content-management workflows. Developed through Etaar. [Overview & screens](projects/rouia-platform.md) · [Platform](https://podcast.alrouia.ly/); private source. |
 | **TechShield / درع التقنية** | A technology company website presenting software, networks and infrastructure services. |
 
 ## Ventures and professional home

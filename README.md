@@ -11,6 +11,19 @@ I’m a network engineer and developer based in Libya. I work on development, sy
 صور من التطبيقات ومعاينات الواجهات. افتح صفحة المشروع لمشاهدة الصور الأكبر وتفاصيل كل معاينة.
 
 <table>
+<tr><th width="50%">منصة رؤية · Podcast platform</th><th width="50%">الرؤية الفنية · Company website</th></tr>
+<tr>
+<td align="center" valign="top">
+<a href="projects/rouia-platform.md"><img src="assets/rouia-platform/platform-desktop.png" width="440" alt="ROUIA Platform Arabic podcast homepage" /></a>
+<p>Episodes, shorts and persistent audio listening. Developed through Etaar.</p>
+<a href="projects/rouia-platform.md">My work & screens →</a> · <a href="https://podcast.alrouia.ly/">Visit platform →</a>
+</td>
+<td align="center" valign="top">
+<a href="projects/alrouia.md"><img src="assets/rouia-company/company-desktop.png" width="440" alt="ROUIA media production company website" /></a>
+<p>A cinematic Arabic portfolio, production services and video archive. Developed through Etaar.</p>
+<a href="projects/alrouia.md">My work & screens →</a> · <a href="https://alrouia.ly/">Visit website →</a>
+</td>
+</tr>
 <tr><th colspan="2">Featured · REPLY · Open source</th></tr>
 <tr>
 <td colspan="2" align="center" valign="top">
@@ -62,12 +75,14 @@ I’m a network engineer and developer based in Libya. I work on development, sy
 
 </table>
 
-UpDent uses published promotional images. Glory and Nabda use local development previews; the student account is a demo. Fawtara's animation is a proposed mobile design with illustrative records; its project page also contains actual captures of the existing browser edition. Reply uses existing development captures with labelled fictional inventory and empty sign-in forms. [Image sources](assets/README.md).
+ROUIA uses existing visitor-facing project captures; its source and administration remain private. UpDent uses published promotional images. Glory and Nabda use local development previews; the student account is a demo. Fawtara's animation is a proposed mobile design with illustrative records; its project page also contains actual captures of the existing browser edition. Reply uses existing development captures with labelled fictional inventory and empty sign-in forms. [Image sources](assets/README.md).
 
 ## Projects
 
 | Project | Purpose | Technology | Explore |
 | --- | --- | --- | --- |
+| **منصة رؤية · ROUIA Platform** | Arabic podcasts, shorts and persistent audio listening with private content-management workflows. | HTML · CSS · JavaScript · Node.js · SQLite | [Overview & screens](projects/rouia-platform.md) · [Visit platform](https://podcast.alrouia.ly/) |
+| **الرؤية الفنية · ROUIA company website** | Media-production portfolio, services and video archive connected to the podcast platform. | HTML · CSS · JavaScript · static site | [Overview & screens](projects/alrouia.md) · [Visit website](https://alrouia.ly/) |
 | **REPLY** | Arabic-first merchant inventory, product-code answers and configurable business replies; locally verified pilot. | TypeScript · Node.js · SQLite · Workers/D1 prototype | [Code & docs](https://github.com/mohamedkbay/REPLY) · [Overview & previews](projects/reply.md) |
 | **UpDent** | An Android and iOS mobile app for dental clinic workflows, with companion web tools. | Mobile app · web interfaces | [Overview](projects/updent.md) · [Website](https://updent.ly) |
 | **Glory Platform · GloryTech Academy** | An Arabic learning platform for networking and IT training. | React · TypeScript · course and student interfaces | [Overview](projects/glory-platform.md) |
@@ -78,6 +93,8 @@ UpDent uses published promotional images. Glory and Nabda use local development 
 
 ## A closer look
 
+- **[ROUIA Platform](projects/rouia-platform.md):** episodes, shorts, audio listening and private content workflows.
+- **[ROUIA company website](projects/alrouia.md):** the studio’s production work, services and connection to its podcast platform.
 - **[REPLY](projects/reply.md):** merchant inventory, bilingual workflows and product replies built on saved catalog data.
 - **[UpDent](projects/updent.md):** a dental mobile app and supporting web workflows.
 - **[Glory Platform](projects/glory-platform.md):** course discovery, a student dashboard and an Arabic learning experience.
