@@ -6,6 +6,8 @@
 
 موقع شركة الرؤية الفنية للإنتاج والتسويق الإعلامي: معرض للأعمال والفيديوهات، عرض للخدمات وأرشيف المشاريع، وقسم للبودكاست يربط الزائر بمنصة رؤية.
 
+**Availability:** Public company website · private source.
+
 ## My contribution · دوري
 
 Website development and delivery through **Etaar Digital Systems**: refining the Arabic web experience, integrating local video playback and project previews, linking the podcast platform, and preparing the static build for hosting. The work preserves Rouia’s established visual identity, production media and existing credits.

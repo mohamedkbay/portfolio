@@ -4,31 +4,35 @@
 
 [Back to selected work](../README.md)
 
+**Availability:** Development preview with demo mode · private source.
+
 ## Platform previews
 
 ### Arabic landing page
 
 ![GloryTech Academy Arabic landing page](../assets/glory/home.jpg)
 
-<table>
-<tr><th width="50%">Course overview</th><th width="50%">Student dashboard · Demo</th></tr>
-<tr>
-<td valign="top"><a href="../assets/glory/course.jpg"><img src="../assets/glory/course.jpg" width="440" alt="Glory networking course overview and curriculum" /></a></td>
-<td valign="top"><a href="../assets/glory/dashboard.jpg"><img src="../assets/glory/dashboard.jpg" width="440" alt="Glory dashboard showing a synthetic demo student" /></a></td>
-</tr>
-</table>
+### Course overview
+
+![Glory networking course overview and curriculum](../assets/glory/course.jpg)
+
+### Student dashboard · Demo
+
+![Glory dashboard showing a synthetic demo student](../assets/glory/dashboard.jpg)
 
 Captured from the actual local development preview. The dashboard uses the built-in demo student; no real learner records are shown. Click an image to view it larger.
 
-## The idea
+## Overview · الفكرة
 
 Give a training academy a clear online home for course discovery and a structured learning experience for students.
 
 منصة Glory لمركز التدريب: عرض الدورات، تفاصيل المحتوى، لوحة الطالب، متابعة الدروس والتقدّم، بواجهة عربية تدعم الاتجاه من اليمين لليسار.
 
-## My work
+## My contribution · دوري
 
-Development of the training platform and its web interfaces, including course discovery, student journeys and the learning dashboard.
+Training-platform development across course discovery, student journeys and the learning dashboard.
+
+تطوير منصة التدريب وواجهات اكتشاف الدورات ورحلة الطالب ولوحة التعلّم.
 
 ## Platform scope
 

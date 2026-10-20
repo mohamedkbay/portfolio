@@ -6,6 +6,14 @@
 
 REPLY يساعد التاجر ينظّم المنتجات والأسعار والتوفر، ويردّ على استفسارات الزبائن انطلاقاً من كود المنتج وبيانات المخزون. الواجهة عربية وإنجليزية، والردود الحالية مبنية على قواعد وبيانات محفوظة، من غير توليد أسعار بالذكاء الاصطناعي.
 
+**Availability:** Open source · locally verified pilot; live setup still required.
+
+## My contribution · دوري
+
+Merchant inventory, product replies, bilingual interface and Node pilot development on an attributed open-source foundation.
+
+تطوير مخزون التاجر وردود المنتجات والواجهة ثنائية اللغة وتجربة Node، مع الاحتفاظ بنسبة الأساس مفتوح المصدر.
+
 ## The merchant workflow
 
 1. The merchant saves a product code, name, price, currency, availability and optional photo.
@@ -36,7 +44,7 @@ An existing local development capture with synthetic products and illustrative p
 
 The matching sign-in captures show the English interface. Arabic RTL is the default, with English LTR, locally served Cairo, responsive layouts, light/dark modes and reduced-motion support. Email delivery is visibly disabled in these unconfigured local previews.
 
-## Development scope
+## Product scope · نطاق العمل
 
 Reply extends an existing open-source automation foundation with a merchant-focused inventory workflow, product media, connected-channel adapters, bilingual interface and identity, and a separate Node customer-service pilot.
 

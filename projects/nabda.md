@@ -4,19 +4,27 @@
 
 [Back to selected work](../README.md)
 
+**Availability:** Private product development · website preview shows a simulated message flow.
+
+## My contribution · دوري
+
+Application and integration development across the Android agent, local controller, queues and messaging API.
+
+تطوير وربط وكيل Android ولوحة التحكم المحلية وطوابير الرسائل والـAPI.
+
 ## Product preview
 
 ![Nabda product site and simulated message delivery flow](../assets/nabda/home.jpg)
 
 Captured from the local product website. The visible message flow is the site's built-in simulation with a masked example phone number.
 
-## The idea
+## Overview · الفكرة
 
 Give a business a way to queue expected service messages through its own connected Android phone, with a local controller or a self-hosted API.
 
 نبضة يربط هاتف أندرويد بلوحة تحكم محلية أو API، لتنظيم طابور الرسائل ومتابعة حالتها.
 
-## Development scope
+## Product scope · نطاق العمل
 
 - A lightweight native Android agent.
 - A Windows controller with a browser dashboard, local storage and QR pairing.

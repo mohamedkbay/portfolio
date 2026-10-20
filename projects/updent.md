@@ -4,6 +4,8 @@
 
 [Website](https://updent.ly) · [App Store](https://apps.apple.com/ly/app/updent/id6754293517?l=ar) · [Google Play](https://play.google.com/store/apps/details?id=com.bensuliman.updent&hl=en) · [Back to selected work](../README.md)
 
+**Availability:** Android & iOS app · private source; companion web tools have their own development stage.
+
 ## App previews
 
 <p align="center">
@@ -16,15 +18,17 @@
 
 The first two images are published App Store promotional screenshots. The onboarding screen comes from the public UpDent website. [Image sources](../assets/README.md).
 
-## The idea
+## Overview · الفكرة
 
 Help dentists and their teams organize patient records, document treatment and follow cases from one mobile workflow.
 
 أب دنت مشروع تطبيق موبايل لأطباء الأسنان وفرق العيادات، لإدارة ملفات المرضى والعلاجات والمواعيد ومتابعة الحالات، مع واجهات وأدوات ويب مساندة.
 
-## My work
+## My contribution · دوري
 
-Mobile application development, product interfaces and companion web tools for dental clinic workflows.
+Mobile application development, product interfaces and companion web workflows for dental teams.
+
+تطوير تطبيق الموبايل وواجهات المنتج وأدوات الويب المساندة لفرق عيادات الأسنان.
 
 ## Product scope
 

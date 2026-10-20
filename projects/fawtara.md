@@ -4,6 +4,14 @@
 
 [Public source](https://github.com/mohamedkbay/fawtara-public) · [Back to selected work](../README.md)
 
+**Availability:** Browser source available · Flutter, local SQLite, alerts and Qwen remain a design proposal.
+
+## My contribution · دوري
+
+Browser invoice workflow development and a mobile interface/motion proposal for the planned Flutter edition.
+
+تطوير مسار الفواتير في المتصفح وتصميم الواجهة والمعاينة المتحركة لنسخة Flutter المقترحة.
+
 ## Mobile direction · design preview
 
 <p align="center"><img src="../assets/fawtara/logo.png" width="72" alt="Proposed Fawtara receipt logo" /></p>
@@ -31,13 +39,13 @@ The proposed workflow is capture → enter details → save locally → review s
 
 Captured from the actual local web interface using a phone-sized viewport, with an empty archive and blank invoice fields. No customer invoices or account records are shown.
 
-## The idea
+## Overview · الفكرة
 
 Make it easier to capture invoices from a phone and find them later by client, date or notes.
 
 فوترة ينظّم صور الفواتير مع اسم الزبون والتاريخ والملاحظات، ويسهّل البحث والرجوع لها من الهاتف.
 
-## Development scope
+## Product scope · نطاق العمل
 
 - Camera capture and gallery uploads, with image compression and previews.
 - Invoice records with client names, dates and notes.

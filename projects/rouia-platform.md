@@ -6,6 +6,8 @@
 
 منصة رؤية للبودكاست والشورتات والاستماع الصوتي، إحدى منصات شركة رؤية للإنتاج والتسويق الإعلامي. المحتوى الحالي يركّز على **صالون طب العيون**: حلقات وحوارات وتجارب من عالم طب العيون.
 
+**Availability:** Public visitor platform · private source and administration.
+
 ## My contribution · دوري
 
 Web-platform development through **Etaar Digital Systems**: the Arabic episode and shorts experience, responsive audio player and navigation, partner and sponsorship flows, and private content-management workflows.

@@ -4,6 +4,14 @@
 
 [Visit the website](https://masajiduna.ly) · [Back to selected work](../README.md)
 
+**Availability:** Public product website · private source; store availability follows the website.
+
+## My contribution · دوري
+
+Flutter app and companion website development across prayer times, mosque discovery, notifications and Quran radio.
+
+تطوير تطبيق Flutter والموقع المساند لمواقيت الصلاة والمساجد والتنبيهات وإذاعة القرآن.
+
 ## App previews
 
 <p align="center">
@@ -13,13 +21,13 @@
 
 Existing development captures of prayer times and mosque discovery. The map uses a manually selected preview location. [Image sources](../assets/README.md).
 
-## The idea
+## Overview · الفكرة
 
 Bring prayer times, mosque discovery, daily adhkar and Quran radio into one clear Arabic experience.
 
 مساجدنا يجمع مواقيت الصلاة، البحث عن المساجد القريبة، الأذكار وإذاعة القرآن في تطبيق عربي واحد.
 
-## Development scope
+## Product scope · نطاق العمل
 
 - A Flutter mobile app with local prayer-time calculations and configurable notifications.
 - A mosque map with search, distance sorting and directions, using OpenStreetMap / Overpass data.
