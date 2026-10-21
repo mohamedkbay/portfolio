@@ -2,9 +2,9 @@
 
 **An Arabic training platform for networking, infrastructure and IT education.**
 
-[Back to selected work](../README.md)
+[Visit GloryTech Academy →](https://academy.glorytech.ly/) · [Back to selected work](../README.md)
 
-**Availability:** Development preview with demo mode · private source.
+**Availability:** Public academy website · private source.
 
 ## Platform previews
 
@@ -39,10 +39,10 @@ Training-platform development across course discovery, student journeys and the 
 - Lesson presentation, including embedded training material.
 - Available and coming-soon course states.
 
-The training content is associated with **Eng. Mohamed Bashir Al-Misrati**. Networking Foundations and Enterprise Networking are represented in the current course catalog; additional tracks are planned.
+The public catalog includes **CCNA1: Introduction to Networks** and **CCNA 4: Connecting Networks**, with **Eng. Mohamed Bashir Al-Misrati**. Additional professional tracks are listed as upcoming.
 
 ## Technology and stage
 
 React · TypeScript · Vite · React Router · Tailwind CSS · database and authentication integration.
 
-The project includes a demo mode and backend integration work. A hosted deployment needs its authentication, email delivery and persistence configured before real student onboarding. This overview presents the platform development; source code stays private.
+The official academy is available at [academy.glorytech.ly](https://academy.glorytech.ly/). Its public homepage was checked on 21 October 2026. The screenshots above document the earlier local development preview, including its synthetic student dashboard; the live website may have newer content and visual updates. Application source and learner data remain private.

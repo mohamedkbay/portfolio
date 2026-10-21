@@ -22,9 +22,9 @@ An Arabic training platform for networking, infrastructure and IT education.
 
 **My work:** Training-platform development across course discovery, student journeys and the learning dashboard.
 
-**Availability:** Development preview with demo mode · private source.
+**Availability:** Public academy website · private source.
 
-[Project overview →](projects/glory-platform.md)
+[Project overview →](projects/glory-platform.md) · [Visit academy →](https://academy.glorytech.ly/)
 
 ### Fakkerni
 
