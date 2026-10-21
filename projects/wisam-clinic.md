@@ -6,28 +6,24 @@
 
 **Availability:** Private website project · no public visit link listed.
 
-## Overview · الفكرة
-
-موقع للعيادة يعرّف بخدماتها وفريقها ومعلوماتها للزائر.
+## Overview
 
 A clinic website presenting services, the team and visitor information.
 
-## My contribution · دوري
+## My contribution
 
 Clinic website development and service-presentation interfaces.
 
-تطوير موقع العيادة وواجهات عرض خدماتها ومعلوماتها.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - Clinic and service presentation.
 - Team and visual content interfaces.
 - Visitor-facing website navigation.
 
-## Technology · التقنيات
+## Technology
 
 Next.js · React · TypeScript
 
-## Availability · الحالة
+## Availability
 
 This is a project overview. Application source, access configuration and operational records remain private. No live customer or business records are shown.

@@ -6,28 +6,24 @@
 
 **Availability:** Private business application · no public demo linked.
 
-## Overview · الفكرة
-
-منظومة أعمال لمواد البناء وخدمات المقاولات، بواجهات للمبيعات والمخزون والمورّدين والتقارير.
+## Overview
 
 A tailored business-management application for building materials and construction services.
 
-## My contribution · دوري
+## My contribution
 
 Business application development and customization of sales, stock and administrative interfaces.
 
-تطوير وتخصيص واجهات المبيعات والمخزون والإدارة وفق سير العمل.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - Sales, invoice and receipt interfaces.
 - Inventory and supplier workflows.
 - Administrative and reporting interfaces.
 
-## Technology · التقنيات
+## Technology
 
 React · TypeScript · web application interfaces
 
-## Availability · الحالة
+## Availability
 
 This is a project overview. Application source, access configuration and operational records remain private. No live customer or business records are shown.

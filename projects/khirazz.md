@@ -1,4 +1,4 @@
-# الخراز · Khirazz POS
+# Khirazz POS
 
 **A local-first point of sale for web and Windows, with optional synchronization.**
 
@@ -6,28 +6,24 @@
 
 **Availability:** Private company collaboration project · no public binaries distributed here.
 
-## Overview · الفكرة
-
-نقطة بيع للويب وWindows تحفظ البيانات محلياً، مع مزامنة اختيارية عند الاتصال.
+## Overview
 
 A local-first point of sale for web and Windows, with optional synchronization.
 
-## My contribution · دوري
+## My contribution
 
 Application development across the shared interface, local records, synchronization and Windows delivery.
 
-تطوير الواجهة المشتركة والسجلات المحلية والمزامنة وتجهيز نسخة Windows.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - Shared point-of-sale interface for browser and Windows.
 - Local records and optional synchronization workflows.
 - Windows application delivery and updates.
 
-## Technology · التقنيات
+## Technology
 
 JavaScript · Electron · IndexedDB · web application interfaces
 
-## Availability · الحالة
+## Availability
 
 This is a project overview. Application source, access configuration and operational records remain private. No live customer or business records are shown.

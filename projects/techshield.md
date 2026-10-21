@@ -1,4 +1,4 @@
-# درع التقنية · TechShield
+# TechShield
 
 **A technology-company website presenting software, networking and infrastructure services.**
 
@@ -6,28 +6,24 @@
 
 **Availability:** Private website project · no public visit link listed.
 
-## Overview · الفكرة
-
-موقع شركة تقنية يعرض خدمات البرمجيات والشبكات والبنية التحتية.
+## Overview
 
 A technology-company website presenting software, networking and infrastructure services.
 
-## My contribution · دوري
+## My contribution
 
 Website development and service-presentation interfaces.
 
-تطوير الموقع وواجهات عرض خدمات الشركة التقنية.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - Company and service presentation.
 - Software, network and infrastructure service sections.
 - Visitor navigation and contact presentation.
 
-## Technology · التقنيات
+## Technology
 
 React · TypeScript · Vite
 
-## Availability · الحالة
+## Availability
 
 This is a project overview. Application source, access configuration and operational records remain private. No live customer or business records are shown.

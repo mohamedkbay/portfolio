@@ -4,15 +4,13 @@
 
 [Public source & documentation →](https://github.com/mohamedkbay/REPLY) · [Back to selected work](../README.md)
 
-REPLY يساعد التاجر ينظّم المنتجات والأسعار والتوفر، ويردّ على استفسارات الزبائن انطلاقاً من كود المنتج وبيانات المخزون. الواجهة عربية وإنجليزية، والردود الحالية مبنية على قواعد وبيانات محفوظة، من غير توليد أسعار بالذكاء الاصطناعي.
+REPLY helps merchants organize products, prices and availability, then answer customer inquiries using product codes and saved inventory. The interface supports Arabic and English; current replies use saved rules and catalog data rather than AI-generated prices.
 
 **Availability:** Open source · locally verified pilot; live setup still required.
 
-## My contribution · دوري
+## My contribution
 
 Merchant inventory, product replies, bilingual interface and Node pilot development on an attributed open-source foundation.
-
-تطوير مخزون التاجر وردود المنتجات والواجهة ثنائية اللغة وتجربة Node، مع الاحتفاظ بنسبة الأساس مفتوح المصدر.
 
 ## The merchant workflow
 
@@ -29,8 +27,6 @@ Incoming photos prompt code guidance; the current implementation does not identi
 
 **[Watch the full 32-second film](https://github.com/mohamedkbay/REPLY/blob/main/docs/media/Reply-Showcase.mp4)** — theme waves, layered navigation, Arabic/English switching, a product-photo reply and the responsive phone layout. The film is 1080p/30 fps; the 12-second GIF previews the theme and menu. Both use synthetic inventory and contain no live message delivery. The film is intentionally silent.
 
-شاهد الواجهة أثناء الاستخدام: تبديل الثيم واللغة، القائمة، معاينة ردّ المنتج وصورته، وعرض الهاتف. التسجيل من نسخة محلية ببيانات تجريبية.
-
 ## Interface previews
 
 ![Reply inventory with explicitly labelled fictional demonstration products](../assets/reply/inventory-dark.jpg)
@@ -44,7 +40,7 @@ An existing local development capture with synthetic products and illustrative p
 
 The matching sign-in captures show the English interface. Arabic RTL is the default, with English LTR, locally served Cairo, responsive layouts, light/dark modes and reduced-motion support. Email delivery is visibly disabled in these unconfigured local previews.
 
-## Product scope · نطاق العمل
+## Product scope
 
 Reply extends an existing open-source automation foundation with a merchant-focused inventory workflow, product media, connected-channel adapters, bilingual interface and identity, and a separate Node customer-service pilot.
 

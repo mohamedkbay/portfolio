@@ -1,4 +1,4 @@
-# منظومة المسوقين · Msueq
+# Msueq
 
 **A marketing and sales workspace with product management, dashboards and reporting interfaces.**
 
@@ -6,28 +6,24 @@
 
 **Availability:** Private application project · no public demo linked.
 
-## Overview · الفكرة
-
-مساحة عمل للتسويق والمبيعات، لتنظيم المنتجات ومتابعة النشاط من لوحات وتقارير.
+## Overview
 
 A marketing and sales workspace with product management, dashboards and reporting interfaces.
 
-## My contribution · دوري
+## My contribution
 
 Application development for product, sales and marketing workflows.
 
-تطوير التطبيق وواجهات المنتجات والمبيعات ومتابعة التسويق.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - Product-management interfaces.
 - Marketing and sales workflows.
 - Dashboard and reporting views.
 
-## Technology · التقنيات
+## Technology
 
 React · TypeScript · Vite
 
-## Availability · الحالة
+## Availability
 
 This is a project overview. Application source, access configuration and operational records remain private. No live customer or business records are shown.

@@ -1,4 +1,4 @@
-# فوترة · Fawtara
+# Fawtara
 
 **Invoice capture today; a Flutter financial companion in design.**
 
@@ -6,17 +6,15 @@
 
 **Availability:** Browser source available · Flutter, local SQLite, alerts and Qwen remain a design proposal.
 
-## My contribution · دوري
+## My contribution
 
 Browser invoice workflow development and a mobile interface/motion proposal for the planned Flutter edition.
-
-تطوير مسار الفواتير في المتصفح وتصميم الواجهة والمعاينة المتحركة لنسخة Flutter المقترحة.
 
 ## Mobile direction · design preview
 
 <p align="center"><img src="../assets/fawtara/logo.png" width="72" alt="Proposed Fawtara receipt logo" /></p>
 
-**كل فاتورة، خطوة أوضح.**
+**A clearer picture with every invoice.**
 
 ![Fawtara mobile concept walkthrough](../assets/fawtara/walkthrough.gif)
 
@@ -24,7 +22,7 @@ Browser invoice workflow development and a mobile interface/motion proposal for 
 
 This is a design and motion proposal with illustrative records, not footage of a completed Flutter application or a live Qwen response.
 
-التصور الجديد لفوترة: تطبيق Flutter، قاعدة بيانات محلية داخل الهاتف، مبالغ وتصنيفات ومواعيد استحقاق، وتنبيهات للمصروفات والفواتير، مع تحليل اختياري عبر Qwen بمفتاح كل مستخدم.
+The proposed Flutter edition would store records in a local phone database, track amounts, categories and due dates, and provide expense and invoice alerts. Optional Qwen analysis would use each user’s own API key.
 
 The proposed workflow is capture → enter details → save locally → review spending and due dates → receive local alerts → optionally review and send a summary to Qwen. Financial checks are based on the records the user enters. The existing public browser edition remains available below.
 
@@ -39,13 +37,11 @@ The proposed workflow is capture → enter details → save locally → review s
 
 Captured from the actual local web interface using a phone-sized viewport, with an empty archive and blank invoice fields. No customer invoices or account records are shown.
 
-## Overview · الفكرة
+## Overview
 
 Make it easier to capture invoices from a phone and find them later by client, date or notes.
 
-فوترة ينظّم صور الفواتير مع اسم الزبون والتاريخ والملاحظات، ويسهّل البحث والرجوع لها من الهاتف.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - Camera capture and gallery uploads, with image compression and previews.
 - Invoice records with client names, dates and notes.

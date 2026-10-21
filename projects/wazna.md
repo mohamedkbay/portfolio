@@ -1,4 +1,4 @@
-# الوزنة · Wazna
+# Wazna
 
 **Café recipe and raw-material management with consumption, waste and archived operational entries.**
 
@@ -6,29 +6,25 @@
 
 **Availability:** Private application project · operational records excluded.
 
-## Overview · الفكرة
-
-تنظيم وصفات المقهى والمواد الخام وتسجيل الاستهلاك والهدر والرجوع للأرشيف.
+## Overview
 
 Café recipe and raw-material management with consumption, waste and archived operational entries.
 
-## My contribution · دوري
+## My contribution
 
 Development of recipe, material and operational-record workflows.
 
-تطوير مسارات الوصفات والمواد الخام والسجلات التشغيلية والأرشيف.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - Recipes, ingredients and raw-material definitions.
 - Consumption and waste entries.
 - Archived daily, weekly and monthly records.
 
-## Technology · التقنيات
+## Technology
 
 React · TypeScript · Vite · web application interfaces
 
-## Availability · الحالة
+## Availability
 
 This is a project overview. Application source, access configuration and operational records remain private. No live customer or business records are shown.
 

@@ -1,18 +1,16 @@
-# منصة رؤية · ROUIA Platform
+# ROUIA Platform
 
 **Arabic podcasts, short conversations and an audio experience that follows the listener.**
 
 [Open the platform →](https://podcast.alrouia.ly/) · [Listen](https://podcast.alrouia.ly/listen) · [Company website](alrouia.md) · [Back to selected work](../README.md)
 
-منصة رؤية للبودكاست والشورتات والاستماع الصوتي، إحدى منصات شركة رؤية للإنتاج والتسويق الإعلامي. المحتوى الحالي يركّز على **صالون طب العيون**: حلقات وحوارات وتجارب من عالم طب العيون.
+ROUIA Platform is the podcast, shorts and audio-listening platform of Rouia Production & Marketing. Its current content focuses on the **Ophthalmology Salon** podcast, featuring conversations and professional experiences from ophthalmology.
 
 **Availability:** Public visitor platform · private source and administration.
 
-## My contribution · دوري
+## My contribution
 
 Web-platform development through **Etaar Digital Systems**: the Arabic episode and shorts experience, responsive audio player and navigation, partner and sponsorship flows, and private content-management workflows.
-
-تطوير المنصة عبر **إطار للأنظمة الرقمية**: واجهات الحلقات والشورتات، تجربة الاستماع والمشغّل المستمر، واجهات الهاتف، صفحات الشركاء وطلبات الرعاية، ومسار إدارة المحتوى الخاص بالفريق. الإنتاج والمحتوى والهوية لشركة رؤية وأصحابها.
 
 ## Watch, listen and discover
 

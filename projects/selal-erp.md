@@ -6,28 +6,24 @@
 
 **Availability:** Private application project · no public demo linked.
 
-## Overview · الفكرة
-
-واجهات نقطة بيع وإدارة مخزون ومورّدين، مع لوحة متابعة وتقارير.
+## Overview
 
 Point-of-sale, inventory, supplier and reporting interfaces in a shared business workspace.
 
-## My contribution · دوري
+## My contribution
 
 Development of point-of-sale and supporting inventory and reporting interfaces.
 
-تطوير واجهات نقطة البيع والمخزون ومسارات المتابعة والتقارير.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - Point-of-sale and sales interfaces.
 - Product, inventory and partner workflows.
 - Dashboard, settings and reports.
 
-## Technology · التقنيات
+## Technology
 
 React · TypeScript · Electron · Node.js
 
-## Availability · الحالة
+## Availability
 
 This is a project overview. Application source, access configuration and operational records remain private. No live customer or business records are shown.

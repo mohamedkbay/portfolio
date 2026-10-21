@@ -1,24 +1,22 @@
-# الرؤية الفنية · ROUIA company website
+# ROUIA Company Website
 
 **A cinematic Arabic website for a media production and marketing company.**
 
 [Visit alrouia.ly →](https://alrouia.ly/) · [ROUIA Platform](rouia-platform.md) · [Back to selected work](../README.md)
 
-موقع شركة الرؤية الفنية للإنتاج والتسويق الإعلامي: معرض للأعمال والفيديوهات، عرض للخدمات وأرشيف المشاريع، وقسم للبودكاست يربط الزائر بمنصة رؤية.
+The company website for Rouia Production & Marketing brings together a visual work portfolio, services, a project archive and a podcast section connected to ROUIA Platform.
 
 **Availability:** Public company website · private source.
 
-## My contribution · دوري
+## My contribution
 
 Website development and delivery through **Etaar Digital Systems**: refining the Arabic web experience, integrating local video playback and project previews, linking the podcast platform, and preparing the static build for hosting. The work preserves Rouia’s established visual identity, production media and existing credits.
-
-تطوير وتجهيز الموقع عبر **إطار للأنظمة الرقمية**، مع تحسين تشغيل الفيديوهات ومعاينات الأعمال، وربط قسم البودكاست بالمنصة، وتجهيز نسخة الموقع للاستضافة. الهوية والأعمال المرئية تخص شركة رؤية وأصحابها.
 
 ## The experience
 
 - A visual portfolio with silent previews and full videos with sound on demand.
 - Media-production services, project archive and interactive navigation.
-- A dedicated podcast section introducing **صالون طب العيون**, with links to the viewing and listening platform.
+- A dedicated podcast section introducing **Ophthalmology Salon**, with links to the viewing and listening platform.
 - Arabic RTL, responsive layouts and reduced-motion support.
 
 ## Interface previews

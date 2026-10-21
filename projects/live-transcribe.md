@@ -1,4 +1,4 @@
-# Live Transcribe · التفريغ اللحظي
+# Live Transcribe
 
 **A live text editor and audience screen synchronized over WebSockets, with local HTML and text export.**
 
@@ -6,28 +6,24 @@
 
 **Availability:** Private development project · no public release link listed.
 
-## Overview · الفكرة
-
-مساحة للكاتب وشاشة للجمهور، لعرض النص المكتوب لحظياً على جهاز آخر وحفظه في النهاية.
+## Overview
 
 A live text editor and audience screen synchronized over WebSockets, with local HTML and text export.
 
-## My contribution · دوري
+## My contribution
 
 Development of the editor/viewer workflow, live synchronization and local export.
 
-تطوير شاشة الكاتب والعرض والتزامن اللحظي والتصدير المحلي.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - A writer enters text while the audience screen updates in real time.
 - Viewer font sizing, full-screen presentation and automatic scrolling.
 - Local HTML and plain-text export.
 
-## Technology · التقنيات
+## Technology
 
 Node.js · browser interfaces · WebSockets
 
-## Availability · الحالة
+## Availability
 
 This is a project overview. Application source, access configuration and operational records remain private. No live customer or business records are shown.

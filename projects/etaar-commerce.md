@@ -6,28 +6,24 @@
 
 **Availability:** Private application projects · operational data excluded.
 
-## Overview · الفكرة
-
-واجهات متجر إلكتروني وأدوات إدارة مساندة للمنتجات والعلامات والطلبات ومتابعة المبيعات.
+## Overview
 
 E-commerce storefront and companion administration interfaces for products, brands, orders and sales.
 
-## My contribution · دوري
+## My contribution
 
 Storefront and administration development within Etaar’s product and business work.
 
-تطوير واجهات المتجر ولوحة الإدارة ضمن شغل منتجات وأعمال إطار.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - Customer-facing storefront interfaces.
 - Product, brand and order administration.
 - Sales and dashboard views.
 
-## Technology · التقنيات
+## Technology
 
 React · TypeScript · web application interfaces
 
-## Availability · الحالة
+## Availability
 
 This is a project overview. Application source, access configuration and operational records remain private. No live customer or business records are shown.

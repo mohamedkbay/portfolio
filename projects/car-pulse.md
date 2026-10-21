@@ -6,28 +6,24 @@
 
 **Availability:** Private application project · no public demo linked.
 
-## Overview · الفكرة
-
-تنظيم خطوات فحص المركبات وتوثيق الملاحظات والأضرار وتجهيز تقرير للزبون.
+## Overview
 
 Structured vehicle inspection, damage documentation and customer-facing inspection reports.
 
-## My contribution · دوري
+## My contribution
 
 Application and interface development for vehicle inspection and reporting workflows.
 
-تطوير التطبيق وواجهات فحص المركبات وتوثيق النتائج والتقارير.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - Structured inspection steps and checks.
 - Damage notes and inspection-photo workflows.
 - Customer-facing inspection report interfaces.
 
-## Technology · التقنيات
+## Technology
 
 TypeScript · React · web application interfaces
 
-## Availability · الحالة
+## Availability
 
 This is a project overview. Application source, access configuration and operational records remain private. No live customer or business records are shown.

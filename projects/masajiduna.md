@@ -1,4 +1,4 @@
-# مساجدنا · Masajiduna
+# Masajiduna
 
 **An Arabic mobile companion for prayer times and nearby mosques.**
 
@@ -6,11 +6,9 @@
 
 **Availability:** Public product website · private source; store availability follows the website.
 
-## My contribution · دوري
+## My contribution
 
 Flutter app and companion website development across prayer times, mosque discovery, notifications and Quran radio.
-
-تطوير تطبيق Flutter والموقع المساند لمواقيت الصلاة والمساجد والتنبيهات وإذاعة القرآن.
 
 ## App previews
 
@@ -21,13 +19,11 @@ Flutter app and companion website development across prayer times, mosque discov
 
 Existing development captures of prayer times and mosque discovery. The map uses a manually selected preview location. [Image sources](../assets/README.md).
 
-## Overview · الفكرة
+## Overview
 
 Bring prayer times, mosque discovery, daily adhkar and Quran radio into one clear Arabic experience.
 
-مساجدنا يجمع مواقيت الصلاة، البحث عن المساجد القريبة، الأذكار وإذاعة القرآن في تطبيق عربي واحد.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - A Flutter mobile app with local prayer-time calculations and configurable notifications.
 - A mosque map with search, distance sorting and directions, using OpenStreetMap / Overpass data.

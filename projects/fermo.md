@@ -6,28 +6,24 @@
 
 **Availability:** Private development project · no store release linked.
 
-## Overview · الفكرة
-
-واجهات تطبيق موبايل لأدوار الزبون والسائق والمورّد، مع مسارات مختلفة لكل دور.
+## Overview
 
 A mobile interface project covering customer, driver and supplier roles.
 
-## My contribution · دوري
+## My contribution
 
 Development and adaptation of role-based mobile interfaces and navigation.
 
-تطوير وتكييف واجهات الموبايل والتنقل بحسب دور المستخدم.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - Customer-facing application interfaces.
 - Driver and supplier role interfaces.
 - Role-based navigation and dashboard flows.
 
-## Technology · التقنيات
+## Technology
 
 Flutter · Dart · related web-interface prototypes
 
-## Availability · الحالة
+## Availability
 
 This is a project overview. Application source, access configuration and operational records remain private. No live customer or business records are shown.

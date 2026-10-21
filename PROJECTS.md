@@ -1,14 +1,14 @@
-# Project catalog · فهرس المشاريع
+# Project catalog
 
-27 مشروعاً من شغلي في التطبيقات والمنصات ومنظومات الأعمال والمواقع. لكل مشروع فكرة ودور وحالة واضحة؛ الصور المتاحة موجودة في صفحة الشرح.
+27 projects across applications, platforms, business systems and websites. Each overview explains the purpose, my contribution and availability, with previews where available.
 
 [Visual gallery](README.md) · [Experience](EXPERIENCE.md) · [Main account](https://github.com/mohamedkbay)
 
-## Mobile & learning · الموبايل والتعلّم
+## Mobile & learning
 
-### UpDent · أب دنت
+### UpDent
 
-تطبيق للعيادات وأطباء الأسنان لتنظيم ملفات المرضى والعلاجات والمواعيد والمتابعات.
+Dental clinic workflows on Android and iOS, with companion web tools.
 
 **My work:** Mobile application development, product interfaces and companion web workflows for dental teams.
 
@@ -18,7 +18,7 @@
 
 ### Glory Platform · GloryTech Academy
 
-منصة عربية لمركز التدريب، من اكتشاف الدورات إلى لوحة الطالب والدروس ومتابعة التقدّم.
+An Arabic training platform for networking, infrastructure and IT education.
 
 **My work:** Training-platform development across course discovery, student journeys and the learning dashboard.
 
@@ -26,9 +26,9 @@
 
 [Project overview →](projects/glory-platform.md)
 
-### فكّرني · Fakkerni
+### Fakkerni
 
-قول التذكير بالعربي أو باللهجة الليبية، راجعه وعدّله، ثم وافق على حفظه والتنبيه عليه.
+Arabic-first voice reminders with review before saving, on native Android and iOS apps.
 
 **My work:** Native Android and iOS application development for the voice, reminder-review and scheduling workflow.
 
@@ -36,9 +36,9 @@
 
 [Project overview →](projects/fakkerni.md) · [Source & downloads](https://github.com/mohamedkbay/fakkerni)
 
-### مساجدنا · Masajiduna
+### Masajiduna
 
-مواقيت الصلاة والمساجد القريبة والأذكار وإذاعة القرآن في تجربة عربية واحدة.
+A Flutter prayer companion with mosque discovery and a companion website.
 
 **My work:** Flutter app and companion website development across prayer times, mosque discovery, notifications and Quran radio.
 
@@ -46,9 +46,9 @@
 
 [Project overview →](projects/masajiduna.md) · [Visit website](https://masajiduna.ly)
 
-### Live Transcribe · التفريغ اللحظي
+### Live Transcribe
 
-مساحة للكاتب وشاشة للجمهور، لعرض النص المكتوب لحظياً على جهاز آخر وحفظه في النهاية.
+A live text editor and audience screen synchronized over WebSockets, with local HTML and text export.
 
 **My work:** Development of the editor/viewer workflow, live synchronization and local export.
 
@@ -58,7 +58,7 @@
 
 ### Fermo mobile application
 
-واجهات تطبيق موبايل لأدوار الزبون والسائق والمورّد، مع مسارات مختلفة لكل دور.
+A mobile interface project covering customer, driver and supplier roles.
 
 **My work:** Development and adaptation of role-based mobile interfaces and navigation.
 
@@ -66,11 +66,11 @@
 
 [Project overview →](projects/fermo.md)
 
-## Healthcare & operations · الصحة والعمليات
+## Healthcare & operations
 
 ### Hospital CRM & communications
 
-مساحة عربية للمحادثات والحجوزات والمتابعات وتوزيع العمل بين أقسام المستشفى.
+Hospital conversations, departmental routing, booking and follow-up workflows built on an existing open-source foundation.
 
 **My work:** Custom hospital workflow development and communications integration on Chatwoot Community and FreeSWITCH foundations.
 
@@ -80,7 +80,7 @@
 
 ### IDC Clinic Manager
 
-منظومة عربية لإدارة المرضى والزيارات والمواعيد والأطباء والموظفين وواجهات التقارير.
+A clinic administration workspace for patient, appointment and team workflows.
 
 **My work:** Application development and implementation of clinic records, scheduling, team and reporting workflows.
 
@@ -90,7 +90,7 @@
 
 ### Car Pulse
 
-تنظيم خطوات فحص المركبات وتوثيق الملاحظات والأضرار وتجهيز تقرير للزبون.
+Structured vehicle inspection, damage documentation and customer-facing inspection reports.
 
 **My work:** Application and interface development for vehicle inspection and reporting workflows.
 
@@ -100,7 +100,7 @@
 
 ### Wisam clinic website
 
-موقع للعيادة يعرّف بخدماتها وفريقها ومعلوماتها للزائر.
+A clinic website presenting services, the team and visitor information.
 
 **My work:** Clinic website development and service-presentation interfaces.
 
@@ -108,11 +108,11 @@
 
 [Project overview →](projects/wisam-clinic.md)
 
-## Business systems · منظومات الأعمال
+## Business systems
 
 ### Salem accounting application
 
-تنظيم فواتير وحسابات المقاولين والمورّدين والمدفوعات وحركة النقد لنشاط مواد بناء.
+Invoices, contractor and supplier accounts, payments, cash movements and PDF statements for a building-materials business.
 
 **My work:** Application development for accounting records, transaction follow-up and statement workflows.
 
@@ -120,9 +120,9 @@
 
 [Project overview →](projects/salem-accounting.md)
 
-### الخراز · Khirazz POS
+### Khirazz POS
 
-نقطة بيع للويب وWindows تحفظ البيانات محلياً، مع مزامنة اختيارية عند الاتصال.
+A local-first point of sale for web and Windows, with optional synchronization.
 
 **My work:** Application development across the shared interface, local records, synchronization and Windows delivery.
 
@@ -132,7 +132,7 @@
 
 ### SouqFlow POS
 
-مساحة نقاط بيع تركّز على Windows وتجمع المبيعات والمخزون والعملاء والتقارير.
+A Windows-focused point-of-sale workspace for sales, stock, customers and reports.
 
 **My work:** Application development and customization of sales, stock, customer and reporting workflows.
 
@@ -142,7 +142,7 @@
 
 ### AL-HADAF ERP
 
-منظومة أعمال لمواد البناء وخدمات المقاولات، بواجهات للمبيعات والمخزون والمورّدين والتقارير.
+A tailored business-management application for building materials and construction services.
 
 **My work:** Business application development and customization of sales, stock and administrative interfaces.
 
@@ -152,7 +152,7 @@
 
 ### ALAZOZI ERP
 
-منظومة مخصّصة لنشاط مواد البناء، لتنظيم البيع والمخزون والحسابات الإدارية.
+A tailored ERP application for a building-materials business.
 
 **My work:** Business application development and adaptation of sales, inventory and administrative workflows.
 
@@ -162,7 +162,7 @@
 
 ### Selal ERP
 
-واجهات نقطة بيع وإدارة مخزون ومورّدين، مع لوحة متابعة وتقارير.
+Point-of-sale, inventory, supplier and reporting interfaces in a shared business workspace.
 
 **My work:** Development of point-of-sale and supporting inventory and reporting interfaces.
 
@@ -170,9 +170,9 @@
 
 [Project overview →](projects/selal-erp.md)
 
-### حِسبة · Hisba
+### Hisba
 
-متابعة تكاليف المقهى ووصفاته ومبيعاته ومصروفاته لفهم الربح بصورة أوضح.
+Café cost and profit analysis workflows covering ingredients, recipes, sales and expenses.
 
 **My work:** Development of café costing and business-analysis interfaces.
 
@@ -180,9 +180,9 @@
 
 [Project overview →](projects/hisba.md)
 
-### الوزنة · Wazna
+### Wazna
 
-تنظيم وصفات المقهى والمواد الخام وتسجيل الاستهلاك والهدر والرجوع للأرشيف.
+Café recipe and raw-material management with consumption, waste and archived operational entries.
 
 **My work:** Development of recipe, material and operational-record workflows.
 
@@ -192,7 +192,7 @@
 
 ### AlWatnya Marine Systems
 
-مساحة لإدارة مبيعات ومخزون وصيانة وحسابات نشاط المعدات البحرية.
+Sales, inventory, maintenance and accounting interfaces for marine equipment operations.
 
 **My work:** Development of business workflows and interfaces for marine equipment operations.
 
@@ -200,9 +200,9 @@
 
 [Project overview →](projects/alwatnya-marine.md)
 
-### منظومة المسوقين · Msueq
+### Msueq
 
-مساحة عمل للتسويق والمبيعات، لتنظيم المنتجات ومتابعة النشاط من لوحات وتقارير.
+A marketing and sales workspace with product management, dashboards and reporting interfaces.
 
 **My work:** Application development for product, sales and marketing workflows.
 
@@ -210,11 +210,11 @@
 
 [Project overview →](projects/msueq.md)
 
-## Business tools · أدوات الأعمال
+## Business tools
 
 ### REPLY
 
-مخزون منظّم ورد واضح للزبون من كود المنتج، بواجهة عربية وإنجليزية.
+Merchant inventory and product-code replies, with bilingual workflows and isolated customer workspaces.
 
 **My work:** Merchant inventory, product replies, bilingual interface and Node pilot development on an attributed open-source foundation.
 
@@ -222,9 +222,9 @@
 
 [Project overview →](projects/reply.md) · [Code & docs](https://github.com/mohamedkbay/REPLY) · [Product film](https://github.com/mohamedkbay/REPLY/blob/main/docs/media/Reply-Showcase.mp4)
 
-### نبضة · Nabda
+### Nabda
 
-يربط هاتف أندرويد بلوحة تحكم محلية أو API، لتنظيم طابور الرسائل ومتابعة حالتها.
+An Android messaging agent, a Windows controller and a self-hosted business messaging API.
 
 **My work:** Application and integration development across the Android agent, local controller, queues and messaging API.
 
@@ -232,9 +232,9 @@
 
 [Project overview →](projects/nabda.md)
 
-### فوترة · Fawtara
+### Fawtara
 
-أرشيف لصور الفواتير والبحث فيها من الهاتف، مع تصور منفصل لنسخة Flutter والتنبيهات والتحليل الاختياري.
+A browser invoice archive, plus a separate mobile design proposal for local records and financial alerts.
 
 **My work:** Browser invoice workflow development and a mobile interface/motion proposal for the planned Flutter edition.
 
@@ -242,11 +242,11 @@
 
 [Project overview →](projects/fawtara.md) · [Browser source](https://github.com/mohamedkbay/fawtara-public)
 
-## Media & websites · المواقع والإعلام
+## Media & websites
 
-### منصة رؤية · ROUIA Platform
+### ROUIA Platform
 
-منصة للحلقات والشورتات والاستماع الصوتي، مرتبطة بشركة رؤية للإنتاج والتسويق الإعلامي.
+Arabic podcasts, shorts and an audio player that continues across internal navigation.
 
 **My work:** Web-platform development through Etaar: episode discovery, audio listening, responsive interfaces and private content workflows.
 
@@ -254,9 +254,9 @@
 
 [Project overview →](projects/rouia-platform.md) · [Visit platform](https://podcast.alrouia.ly/)
 
-### الرؤية الفنية · ROUIA company website
+### ROUIA Company Website
 
-موقع شركة رؤية لعرض الأعمال المرئية والخدمات والأرشيف وربطها بمنصة البودكاست.
+A cinematic Arabic portfolio for media-production work, services and the studio’s podcast.
 
 **My work:** Website development and delivery through Etaar, including video playback, project previews and the podcast connection.
 
@@ -266,7 +266,7 @@
 
 ### Etaar storefront & administration
 
-واجهات متجر إلكتروني وأدوات إدارة مساندة للمنتجات والعلامات والطلبات ومتابعة المبيعات.
+E-commerce storefront and companion administration interfaces for products, brands, orders and sales.
 
 **My work:** Storefront and administration development within Etaar’s product and business work.
 
@@ -274,9 +274,9 @@
 
 [Project overview →](projects/etaar-commerce.md)
 
-### درع التقنية · TechShield
+### TechShield
 
-موقع شركة تقنية يعرض خدمات البرمجيات والشبكات والبنية التحتية.
+A technology-company website presenting software, networking and infrastructure services.
 
 **My work:** Website development and service-presentation interfaces.
 

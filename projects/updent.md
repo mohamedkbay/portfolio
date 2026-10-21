@@ -18,17 +18,13 @@
 
 The first two images are published App Store promotional screenshots. The onboarding screen comes from the public UpDent website. [Image sources](../assets/README.md).
 
-## Overview · الفكرة
+## Overview
 
 Help dentists and their teams organize patient records, document treatment and follow cases from one mobile workflow.
 
-أب دنت مشروع تطبيق موبايل لأطباء الأسنان وفرق العيادات، لإدارة ملفات المرضى والعلاجات والمواعيد ومتابعة الحالات، مع واجهات وأدوات ويب مساندة.
-
-## My contribution · دوري
+## My contribution
 
 Mobile application development, product interfaces and companion web workflows for dental teams.
-
-تطوير تطبيق الموبايل وواجهات المنتج وأدوات الويب المساندة لفرق عيادات الأسنان.
 
 ## Product scope
 

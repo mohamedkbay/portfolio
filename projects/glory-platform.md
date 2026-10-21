@@ -22,17 +22,13 @@
 
 Captured from the actual local development preview. The dashboard uses the built-in demo student; no real learner records are shown. Click an image to view it larger.
 
-## Overview · الفكرة
+## Overview
 
 Give a training academy a clear online home for course discovery and a structured learning experience for students.
 
-منصة Glory لمركز التدريب: عرض الدورات، تفاصيل المحتوى، لوحة الطالب، متابعة الدروس والتقدّم، بواجهة عربية تدعم الاتجاه من اليمين لليسار.
-
-## My contribution · دوري
+## My contribution
 
 Training-platform development across course discovery, student journeys and the learning dashboard.
-
-تطوير منصة التدريب وواجهات اكتشاف الدورات ورحلة الطالب ولوحة التعلّم.
 
 ## Platform scope
 

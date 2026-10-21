@@ -4,8 +4,6 @@
 
 My work connects software, infrastructure and day-to-day technical support. I develop systems, improve existing workflows, investigate problems and help teams keep working.
 
-شغلي يجمع التطوير، الشبكات، تشغيل الأنظمة والدعم الفني: نبني الحل، نطوّره حسب احتياج الفريق، ونشخّص المشاكل ونحلّها.
-
 ## Current work
 
 ### Gram Medical — development & technical problem-solving

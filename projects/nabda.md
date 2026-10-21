@@ -1,4 +1,4 @@
-# نبضة · Nabda
+# Nabda
 
 **A messaging platform built around an Android phone and its SIM.**
 
@@ -6,11 +6,9 @@
 
 **Availability:** Private product development · website preview shows a simulated message flow.
 
-## My contribution · دوري
+## My contribution
 
 Application and integration development across the Android agent, local controller, queues and messaging API.
-
-تطوير وربط وكيل Android ولوحة التحكم المحلية وطوابير الرسائل والـAPI.
 
 ## Product preview
 
@@ -18,13 +16,11 @@ Application and integration development across the Android agent, local controll
 
 Captured from the local product website. The visible message flow is the site's built-in simulation with a masked example phone number.
 
-## Overview · الفكرة
+## Overview
 
 Give a business a way to queue expected service messages through its own connected Android phone, with a local controller or a self-hosted API.
 
-نبضة يربط هاتف أندرويد بلوحة تحكم محلية أو API، لتنظيم طابور الرسائل ومتابعة حالتها.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - A lightweight native Android agent.
 - A Windows controller with a browser dashboard, local storage and QR pairing.

@@ -6,28 +6,24 @@
 
 **Availability:** Private business application · financial records excluded.
 
-## Overview · الفكرة
-
-تنظيم فواتير وحسابات المقاولين والمورّدين والمدفوعات وحركة النقد لنشاط مواد بناء.
+## Overview
 
 Invoices, contractor and supplier accounts, payments, cash movements and PDF statements for a building-materials business.
 
-## My contribution · دوري
+## My contribution
 
 Application development for accounting records, transaction follow-up and statement workflows.
 
-تطوير التطبيق لمسارات السجلات المحاسبية ومتابعة الحركات وكشوف الحساب.
-
-## Product scope · نطاق العمل
+## Product scope
 
 - Invoice, contractor and supplier records.
 - Payments and cash movements.
 - Account follow-up and PDF statements.
 
-## Technology · التقنيات
+## Technology
 
 TypeScript · React · web application interfaces
 
-## Availability · الحالة
+## Availability
 
 This is a project overview. Application source, access configuration and operational records remain private. No live customer or business records are shown.
