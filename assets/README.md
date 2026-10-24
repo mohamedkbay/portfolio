@@ -4,6 +4,7 @@ These images support the public portfolio. Private application source code and o
 
 | Folder | Source and context |
 | --- | --- |
+| `hospital/` | Screenshots captured on 24 October 2026 from the actual Ghout Al-Shaal Hospital local frontend in an isolated presentation environment. Sign-in fields are empty; bookings and follow-ups use empty fixtures and a generic Demo workspace label. No patient database, medical files, conversations, recordings or real staff records are included. The hospital logo and building photo are existing project branding; rights remain with their owners. |
 | `rouia-company/` | Existing visitor-facing captures from the private alrouia.ly project documentation, reviewed on 20 October 2026. Shows the company homepage and podcast section. Public site: [alrouia.ly](https://alrouia.ly/). Branding and production media belong to Rouia and their respective owners. |
 | `rouia-platform/` | Existing visitor-facing captures from the private rouia-platform documentation, reviewed on 20 October 2026: desktop/phone homepage and listening page. Public site: [podcast.alrouia.ly](https://podcast.alrouia.ly/). No private administration or submitted form data is shown. Podcast production, guests’ media and branding retain their original ownership. |
 | `updent/` | Dashboard and follow-up promotional screenshots published in the [UpDent App Store listing](https://apps.apple.com/ly/app/updent/id6754293517?l=ar), retrieved through Apple's public app metadata. The onboarding image is published on the [UpDent website](https://updent.ly). |

@@ -52,6 +52,25 @@ Merchant inventory and product-code replies, with bilingual workflows and isolat
 
 [Overview & screens →](projects/reply.md) · [Code & docs →](https://github.com/mohamedkbay/REPLY) · [Product film →](https://github.com/mohamedkbay/REPLY/blob/main/docs/media/Reply-Showcase.mp4)
 
+### Ghout Al-Shaal Hospital
+
+Hospital CRM connecting conversations, bookings, departmental handoffs and follow-ups.
+
+<p align="center">
+<a href="projects/hospital-crm.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/hospital/login-dark.png" />
+<img src="assets/hospital/login-light.png" width="680" alt="Ghout Al-Shaal Hospital sign-in interface with blank credentials" />
+</picture></a>
+</p>
+
+Isolated interface preview with no patient data.
+
+**My work:** Custom hospital workflows, branding and communications integrations built on Chatwoot Community and FreeSWITCH.
+
+**Availability:** Private hospital system · public interface previews only.
+
+[Overview & screens →](projects/hospital-crm.md)
+
 ### UpDent
 
 Dental clinic workflows on Android and iOS, with companion web tools.
@@ -145,7 +164,6 @@ A browser invoice archive, plus a separate mobile design proposal for local reco
 
 ### Healthcare & operations
 
-- **[Hospital CRM & communications](projects/hospital-crm.md)** — Hospital conversations, departmental routing, booking and follow-up workflows built on an existing open-source foundation.
 - **[IDC Clinic Manager](projects/idc-clinic-manager.md)** — A clinic administration workspace for patient, appointment and team workflows.
 - **[Car Pulse](projects/car-pulse.md)** — Structured vehicle inspection, damage documentation and customer-facing inspection reports.
 - **[Wisam clinic website](projects/wisam-clinic.md)** — A clinic website presenting services, the team and visitor information.

@@ -68,13 +68,13 @@ A mobile interface project covering customer, driver and supplier roles.
 
 ## Healthcare & operations
 
-### Hospital CRM & communications
+### Ghout Al-Shaal Hospital
 
-Hospital conversations, departmental routing, booking and follow-up workflows built on an existing open-source foundation.
+A hospital CRM for Ghout Al-Shaal Hospital, connecting conversations, bookings, departmental handoffs and follow-ups. Includes isolated sign-in and workflow previews.
 
 **My work:** Custom hospital workflow development and communications integration on Chatwoot Community and FreeSWITCH foundations.
 
-**Availability:** Private hospital development and integration work · operational data excluded.
+**Availability:** Private hospital system · public interface previews only.
 
 [Project overview →](projects/hospital-crm.md)
 
