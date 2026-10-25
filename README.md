@@ -40,17 +40,17 @@ A cinematic Arabic portfolio for media-production work, services and the studio�
 
 ### REPLY
 
-Merchant inventory and product-code replies, with bilingual workflows and isolated customer workspaces.
+A merchant workspace for organizing inventory and answering product inquiries using product codes.
 
 <p align="center">
-<a href="projects/reply.md"><img src="assets/reply/motion-preview.gif" width="680" alt="Reply actual local-demo theme wave and layered menu animation" /></a>
+<a href="projects/reply.md"><img src="assets/reply/inventory-dark.jpg" width="680" alt="REPLY product inventory with fictional demonstration products" /></a>
 </p>
 
-**My work:** Merchant inventory, product replies, bilingual interface and Node pilot development on an attributed open-source foundation.
+**Product owner:** Mohamed Bay.
 
-**Availability:** Open source · locally verified pilot; live setup still required.
+**Availability:** Product showcase · private source.
 
-[Overview & screens →](projects/reply.md) · [Code & docs →](https://github.com/mohamedkbay/REPLY) · [Product film →](https://github.com/mohamedkbay/REPLY/blob/main/docs/media/Reply-Showcase.mp4)
+[Product overview & screenshots →](projects/reply.md)
 
 ### Ghout Al-Shaal Hospital
 

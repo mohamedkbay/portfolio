@@ -214,13 +214,13 @@ A marketing and sales workspace with product management, dashboards and reportin
 
 ### REPLY
 
-Merchant inventory and product-code replies, with bilingual workflows and isolated customer workspaces.
+A merchant workspace for organizing inventory and answering product inquiries using product codes.
 
-**My work:** Merchant inventory, product replies, bilingual interface and Node pilot development on an attributed open-source foundation.
+**Product owner:** Mohamed Bay.
 
-**Availability:** Open source · locally verified pilot; live setup still required.
+**Availability:** Product showcase · private source.
 
-[Project overview →](projects/reply.md) · [Code & docs](https://github.com/mohamedkbay/REPLY) · [Product film](https://github.com/mohamedkbay/REPLY/blob/main/docs/media/Reply-Showcase.mp4)
+[Product overview & screenshots →](projects/reply.md)
 
 ### Nabda
 
