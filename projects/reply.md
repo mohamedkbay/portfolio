@@ -5,7 +5,7 @@
 
 REPLY is my main product and ongoing development focus: an Arabic-first workspace that connects a merchant’s products, customer replies and order operations.
 
-**REPLY مشروعي الرئيسي.** أنا محمد باي، مالك المشروع والمطوّر الرئيسي، وأقود تطويره عبر شركة إطار للأنظمة الرقمية. نطوّره ليساعد التاجر من سؤال العميل عن المنتج إلى مراجعة الطلب وتجهيزه ومتابعة التوصيل. طموحنا أن يصبح الخيار الأول للتجار في العالم العربي، بقيمة عملية وأسعار تنافسية.
+**REPLY is my flagship project.** I’m Mohamed Bay, its product owner and lead developer, and I lead its development through Etaar Digital Systems. We are building REPLY to support merchants from the first product inquiry through order review, preparation and delivery follow-up. Our ambition is to make it the first choice for merchants across the Arab world by offering practical value and competitive pricing.
 
 [Visit REPLY](https://raply.ly/) · [Features](https://raply.ly/features) · [Interactive feature tour](https://raply.ly/#tour) · [Plans](https://raply.ly/pricing) · [Start a trial](https://raply.ly/auth/signup) · [Sign in](https://raply.ly/auth/login)
 
