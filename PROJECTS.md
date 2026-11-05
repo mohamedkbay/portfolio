@@ -4,6 +4,20 @@
 
 [Visual gallery](README.md) · [Experience](EXPERIENCE.md) · [Main account](https://github.com/mohamedkbay)
 
+## Flagship project
+
+### REPLY
+
+**Product owner & lead developer: Mohamed Bay.** My main product, in active development since January 2026 through Etaar Digital Systems.
+
+Arabic-first merchant software for product inventory, customer replies, orders, printing and delivery workflows.
+
+**My work:** Product direction, interface design and hands-on software development across the merchant product and its integrations.
+
+**Availability:** Live public website and trial registration; private source. Paid-plan and provider availability follows the live website.
+
+[Current interfaces & project overview →](projects/reply.md) · [Live website](https://raply.ly/) · [Features](https://raply.ly/features) · [Plans](https://raply.ly/pricing)
+
 ## Mobile & learning
 
 ### UpDent
@@ -212,15 +226,6 @@ A marketing and sales workspace with product management, dashboards and reportin
 
 ## Business tools
 
-### REPLY
-
-A merchant workspace for organizing inventory and answering product inquiries using product codes.
-
-**Product owner:** Mohamed Bay.
-
-**Availability:** Product showcase · private source.
-
-[Product overview & screenshots →](projects/reply.md)
 
 ### Nabda
 

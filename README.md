@@ -2,13 +2,30 @@
 
 Mobile apps, practical business tools and the systems behind them.
 
-I’m a network engineer and developer based in Libya. I work on development, system improvements and technical problem-solving at **Gram Medical**, and I’m a co-founder at [Etaar](https://etaar.ly). My work spans mobile apps, web platforms, business systems and infrastructure.
+I’m a network engineer and developer based in Libya. I work on development, system improvements and technical problem-solving at **Gram Medical**, and I’m CEO and lead engineer at [Etaar](https://etaar.ly). My work spans mobile apps, web platforms, business systems and infrastructure.
 
 Project overviews, interface previews and the technology behind the work. Commercial and private application source stays private.
 
 [Full project catalog](PROJECTS.md) · [Experience](EXPERIENCE.md) · [Image sources](assets/README.md)
 
 ## Projects
+
+### REPLY · My flagship product
+
+**Product owner & lead developer: Mohamed Bay.** My main product, actively developed since January 2026 through Etaar Digital Systems.
+
+An Arabic-first merchant workspace for products, customer replies, orders, printing and delivery operations.
+
+<p align="center">
+<a href="projects/reply.md"><img src="assets/reply/2026-11-05/products.png" width="680" alt="REPLY current orange and gray Arabic product interface with synthetic demonstration inventory" /></a>
+</p>
+
+**My work:** Product direction, hands-on engineering, interface design and ongoing development across merchant workflows and integrations.
+
+**Availability:** Live public website and trial sign-up; private source. Current provider and paid-plan availability follows the website.
+
+[Live website →](https://raply.ly/) · [Features →](https://raply.ly/features) · [Plans →](https://raply.ly/pricing) · [Current interfaces & project overview →](projects/reply.md)
+
 
 ### ROUIA Platform
 
@@ -38,19 +55,6 @@ A cinematic Arabic portfolio for media-production work, services and the studio�
 
 [Overview & screens →](projects/alrouia.md) · [Visit website →](https://alrouia.ly/)
 
-### REPLY
-
-A merchant workspace for organizing inventory and answering product inquiries using product codes.
-
-<p align="center">
-<a href="projects/reply.md"><img src="assets/reply/inventory-dark.jpg" width="680" alt="REPLY product inventory with fictional demonstration products" /></a>
-</p>
-
-**Product owner:** Mohamed Bay.
-
-**Availability:** Product showcase · private source.
-
-[Product overview & screenshots →](projects/reply.md)
 
 ### Ghout Al-Shaal Hospital
 
