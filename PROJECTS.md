@@ -18,6 +18,18 @@ Arabic-first merchant software for product inventory, customer replies, orders, 
 
 [Current interfaces & project overview →](projects/reply.md) · [Live website](https://raply.ly/) · [Features](https://raply.ly/features) · [Plans](https://raply.ly/pricing)
 
+## Open-source API project
+
+### Nabda
+
+An SMS API powered by your own Android phone and SIM. The phone keeps the durable sending queue and message history; the server handles requests, pairing and status metadata.
+
+**My work:** Native Android development, the Cloudflare API and account dashboard, integration clients and the illustrated developer guide.
+
+**Availability:** Early public release · website on Netlify and API/dashboard on Cloudflare · public source, Android test APK and integration kit. Live GitHub sign-in was verified on 9 November 2026; physical-device and carrier checks are still required.
+
+[Live website →](https://nabda-phone-api.netlify.app/) · [API dashboard](https://nabda-api.mohamed-kbay.workers.dev/dashboard) · [New interface & API overview →](projects/nabda.md) · [Source & setup](https://github.com/mohamedkbay/Nabda)
+
 ## Mobile & learning
 
 ### UpDent
@@ -226,16 +238,6 @@ A marketing and sales workspace with product management, dashboards and reportin
 
 ## Business tools
 
-
-### Nabda
-
-An Android messaging agent, a Windows controller and a self-hosted business messaging API.
-
-**My work:** Application and integration development across the Android agent, local controller, queues and messaging API.
-
-**Availability:** Private product development · website preview shows a simulated message flow.
-
-[Project overview →](projects/nabda.md)
 
 ### Fawtara
 

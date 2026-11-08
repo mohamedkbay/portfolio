@@ -26,6 +26,20 @@ An Arabic-first merchant workspace for products, customer replies, orders, print
 
 [Live website →](https://raply.ly/) · [Features →](https://raply.ly/features) · [Plans →](https://raply.ly/pricing) · [Current interfaces & project overview →](projects/reply.md)
 
+### Nabda · Your phone, an SMS API
+
+An API for sending a text through your own Android phone and SIM. The phone keeps the queue; the server accepts requests and reports the phone's results.
+
+<p align="center">
+<a href="projects/nabda.md"><img src="assets/nabda/2026-11-09/website-live.png" width="680" alt="Nabda's published illustrated website: a laptop, API cloud, Android phone and a message drawn on warm paper" /></a>
+</p>
+
+**My work:** The native Android gateway, API, account dashboard, integrations and illustrated developer guide.
+
+**Availability:** Early public release · website and API online · public source, Android test APK and integration kit.
+
+[Live website →](https://nabda-phone-api.netlify.app/) · [API dashboard →](https://nabda-api.mohamed-kbay.workers.dev/dashboard) · [New interface & API overview →](projects/nabda.md) · [Source & setup →](https://github.com/mohamedkbay/Nabda)
+
 
 ### ROUIA Platform
 
@@ -130,20 +144,6 @@ A Flutter prayer companion with mosque discovery and a companion website.
 **Availability:** Public product website · private source; store availability follows the website.
 
 [Overview & screens →](projects/masajiduna.md) · [Visit website →](https://masajiduna.ly)
-
-### Nabda
-
-An Android messaging agent, a Windows controller and a self-hosted business messaging API.
-
-<p align="center">
-<a href="projects/nabda.md"><img src="assets/nabda/home.jpg" width="680" alt="Nabda local product website with a labelled simulated message flow" /></a>
-</p>
-
-**My work:** Application and integration development across the Android agent, local controller, queues and messaging API.
-
-**Availability:** Private product development · website preview shows a simulated message flow.
-
-[Overview & screens →](projects/nabda.md)
 
 ### Fawtara
 
